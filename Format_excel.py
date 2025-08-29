@@ -1,4 +1,5 @@
 # Format an Excel file with openpyxl
+# generates a styled Excel sheet ready for presentation.
 
 import openpyxl
 from openpyxl.styles import Font, PatternFill
